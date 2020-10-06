@@ -7,7 +7,7 @@ console.log("Q1. There are " + totalNumberOfTickets + " tickets sold" );
 
 // Q2.
 let weeklyIncome = 500;
-let numberOfDaysPerYear = 356;
+let numberOfDaysPerYear = 365;
 let numberOfWeeksPerYear = numberOfDaysPerYear/7;
 let totalIncomePerYear = numberOfWeeksPerYear * weeklyIncome;
 console.log("Q2. The total income per year is " + totalIncomePerYear);
