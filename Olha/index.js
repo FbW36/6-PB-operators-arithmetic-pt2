@@ -8,7 +8,7 @@ console.log("The number of tickets sold: " + numberOfTicketsSold + ".");
 
 // Q2. Sylvia's income is 500 dollars per week. How much does Sylvia makes every year?
 let weeklyIncome = 500;
-let numberOfWeeksInAYear = 54;
+let numberOfWeeksInAYear = 52;
 let yearlyIncome = weeklyIncome * numberOfWeeksInAYear;
 console.log("Sylvia's yearly income: " + yearlyIncome + " dollars.");
 
