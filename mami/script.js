@@ -4,7 +4,7 @@ console.log(x);
 let y = 500 * 4 * 12;
 console.log(y + "$");
 
-let z = 17 / 30;
+let z = (17 / 30) * 100;
 console.log(z + "%");
 
 let a = 4.75 * 4;
