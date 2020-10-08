@@ -3,12 +3,14 @@ let tiketsSold = 6450 / 15;
 console.log(tiketsSold);
 
 // Q2.Sylvia's income is 500 dollars per week. How much does Sylvia makes every year?
-let yearIncome = 500 * 12;
+let yearIncome = 500 * 52;
 console.log("$" + yearIncome);
 
 // Q3.Calculate the percentage of 17 / 30. Expected output: number %
 let percentage = (17 / 30) * 100;
+let altPercentage = (17 * 100) / 30;
 console.log(percentage + "%");
+console.log(altPercentage + "%");
 
 // Q4.Calculate the perimeter of a square.Assume each side is 4.75cm.
 let squarePerimeter = 4 * 4.75;
