@@ -10,9 +10,8 @@ console.log(priceTotal / priceTicket); // 430
 
 // Q2. Sylvia's income is 500 dollars per week. How much does Sylvia makes every year?
 let weekIncome = 500;
-let weeksPerMonth = 4;
-let monthsPerYear = 12;
-console.log(weekIncome * weeksPerMonth * monthsPerYear); // 24000
+let weeksPerYear = 52;
+console.log(weekIncome * weeksPerYear); // 26000
 
 // **Percentage**
 
@@ -20,7 +19,7 @@ console.log(weekIncome * weeksPerMonth * monthsPerYear); // 24000
 let x = 17;
 let y = 30;
 let total = 100;
-console.log((x / y) * total);
+console.log((x / y) * total); // 56.666666666666664
 
 // **Geometry Formulas**
 
