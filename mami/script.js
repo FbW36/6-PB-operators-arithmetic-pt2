@@ -1,7 +1,7 @@
 let x = 6450 / 15;
 console.log(x);
 
-let y = 500 * 4 * 12;
+let y = 500 * 52;
 console.log(y + "$");
 
 let z = (17 / 30) * 100;
