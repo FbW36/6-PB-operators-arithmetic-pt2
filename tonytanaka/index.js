@@ -1,5 +1,5 @@
 // Q01
-console.log("There were sold", 6450 * 15, "tickets");
+console.log("There were sold", 6450 / 15, "tickets");
 
 // Q02
 console.log("Sylvia makes every year", 500 * 52, "dollars");
