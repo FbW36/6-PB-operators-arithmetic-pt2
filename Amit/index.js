@@ -4,7 +4,7 @@ let cost = 15;
 let tickets = sells / cost;
 console.log("Tickes sold", tickets); // 430
 
-// console.log(`${sold} bought tickets`);
+// console.log(`${tickets} bought tickets`);
 
 // 2
 let income = 500;
@@ -28,7 +28,7 @@ console.log(perimeterSquare);
 let sideOne = 5;
 let sideTwo = 6;
 let sideThree = 7;
-let perimeter = sideOne * sideTwo * sideThree;
+let perimeter = sideOne + sideTwo + sideThree;
 console.log(perimeter);
 
 //6 area
