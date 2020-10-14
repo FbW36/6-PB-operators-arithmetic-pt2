@@ -8,10 +8,9 @@ console.log(ticketsSold);
 //answer: 430 tickets were sold!
 
 let sylviasIncomePerWeek = 500;
-let weeksWithinAmonth = 4;
-let monthsWithinAyear = 12;
+let weeksWithinAyear = 52;
 
-let sylviasYearlyIncome = (weeksWithinAmonth * monthsWithinAyear) * sylviasIncomePerWeek;
+let sylviasYearlyIncome = weeksWithinAyear * sylviasIncomePerWeek;
 
 console.log(sylviasYearlyIncome);
 
